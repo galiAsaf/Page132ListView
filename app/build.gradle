@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 28
     buildToolsVersion "30.0.2"
 
     defaultConfig {
         applicationId "com.gali.p.page132listview"
-        minSdkVersion 28
-        targetSdkVersion 29
+        minSdkVersion 27
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0"
 
